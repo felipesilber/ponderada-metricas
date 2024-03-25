@@ -51,3 +51,6 @@ Durante o desenvolvimento da ponderada, foi possível mergulhar mo âmbito do mo
 
 ### Aplicação rodando
 <img src="./assets/execution.png">
+
+### Dashboard Greetings Count no Grafana
+<img src="./assets/grafana.png"/>

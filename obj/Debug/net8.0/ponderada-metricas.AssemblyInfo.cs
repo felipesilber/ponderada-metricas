@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ponderada-metricas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c868c313dbc7623cc6b017e8f48f5791bdb1b40")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+695150e89be257c634e3dda3a70b7929c981c4df")]
 [assembly: System.Reflection.AssemblyProductAttribute("ponderada-metricas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ponderada-metricas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
